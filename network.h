@@ -23,6 +23,7 @@ Device* find_dev(DeviceList *list, const char *ip);
 void remove_dev(DeviceList *list, const char *ip);
 void free_devlist(DeviceList *list);
 
+
 int initNetworkScan(const char *interface);
 int scanNetwork(DeviceList *list, const char *subnet);
 int pingDevice(const char *ip);
