@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1768412740 source:c:\users\sarva\documents\programovanie\c_program\netmap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"network.h"
+	"table.h"
+
+1768411477 source:c:\users\sarva\documents\programovanie\c_program\netmap\src\network.c
+	"network.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
+1768411477 c:\users\sarva\documents\programovanie\c_program\netmap\include\network.h
+	"table.h"
+
+1768411477 c:\users\sarva\documents\programovanie\c_program\netmap\include\table.h
+
+1768411477 source:c:\users\sarva\documents\programovanie\c_program\netmap\src\table.c
+	"table.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
